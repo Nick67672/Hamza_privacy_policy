@@ -1,0 +1,13 @@
+{
+  "name": "mindful-hamza-privacy-policy",
+  "version": "1.0.0",
+  "description": "Privacy Policy for Mindful Hamza meditation app",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/",
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": ["privacy-policy", "static-site"],
+  "author": "Mindful Hamza",
+  "license": "MIT"
+}
